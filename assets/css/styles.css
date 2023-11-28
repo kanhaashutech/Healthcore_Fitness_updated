@@ -354,6 +354,7 @@ img {
   font-weight: var(--font-bold);
   cursor: pointer;
   transition: background .2s;
+  min-width:10.5rem;
 }
 
 .button:hover {
