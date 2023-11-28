@@ -354,6 +354,8 @@ img {
   font-weight: var(--font-bold);
   cursor: pointer;
   transition: background .2s;
+  
+  min-width: 10.5rem;
 }
 
 .button:hover {
@@ -654,7 +656,8 @@ img {
   row-gap: 2rem;
   background-color: rgba(165, 169, 158, 0.07);
   padding: 2rem 2.5rem;
-
+/* 
+  min-width: 16rem; */
 }
 
 .pricing__img {
